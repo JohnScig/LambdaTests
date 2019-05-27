@@ -46,6 +46,7 @@ namespace PredicateTest
                     break;
             }
 
+            Console.WriteLine();
             Console.WriteLine($"--- first numbers is {GetNumber(_divisibilityCheck)} ---");
             Console.ReadLine();
         }
